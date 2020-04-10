@@ -1,0 +1,15 @@
+frmMain = 88, 120, 616, 568, Z, 22, 30, 550, 478, C
+modFilesDialogs = 132, 180, 660, 628, 
+modMain = 88, 120, 616, 568, 
+frmView = 132, 180, 662, 628, , 110, 150, 640, 598, C
+modSettings = 0, 0, 530, 448, 
+modSysTray = 88, 120, 618, 568, 
+modFunctions = 110, 150, 640, 598, 
+modPictures = 0, 0, 568, 448, 
+frmSlideShow = 66, 90, 651, 538, , 44, 60, 629, 508, C
+frmSlideOption = 154, 210, 739, 658, , 132, 180, 717, 628, C
+clsLoadPCX = 44, 60, 643, 508, 
+clsLoadPNG = 44, 60, 643, 508, 
+clsLoadTGA = 22, 30, 710, 421, 
+clsLoadTIFF = 0, 0, 688, 391, 
+modOfClassBitmap = 110, 150, 709, 598, 
