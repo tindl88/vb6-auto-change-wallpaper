@@ -1,2 +1,2 @@
-# vb6-auto-change-wallpaper
+# AC Wallpaper
 Automatically change your desktop background
